@@ -1,7 +1,7 @@
 var beerdata = [
   {
     "brewery": "Surly Brewing Company",
-    "longitude": 93.212007,
+    "longitude": -93.212007,
     "latitude": 44.9729806,
   },
   {
